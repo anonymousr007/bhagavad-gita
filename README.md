@@ -7,3 +7,23 @@
 > The Bhagavad Gita is primarily a conversation between Lord Shree Krishna and Arjun. However, the first chapter begins with a dialogue between King Dhritarashtra and his minister Sanjay. Dhritarashtra being blind, could not leave his palace in Hastinapur but was eager to know the ongoings of the battlefield.
 >
 > Sanjay was a disciple of Sage Ved Vyas, the author of the epic Mahabharata and several other Hindu scriptures. Sage Ved Vyas possessed a mystic ability to see and hear events occurring in distant places. He had bestowed upon Sanjay the miraculous power of distant vision. Therefore, Sanjay could see and hear, what transpired on the battleground of Kurukshetra, and gave a first-hand account to King Dhritarashtra while still being in his palace.
+
+### Chapter 1 : Verse 1
+
+> धृतराष्ट्र उवाच |
+> 
+> धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |
+>
+> मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||
+
+dhṛitarāśhtraḥ uvācha—Dhritarashtra said;
+dharma-kṣhetre—the land of dharma; 
+kuru-kṣhetre—at Kurukshetra; 
+samavetāḥ—having gathered; 
+yuyutsavaḥ—desiring to fight; 
+māmakāḥ—my sons; 
+pāṇḍavāḥ—the sons of Pandu; 
+cha—and; eva—certainly; 
+kim—what; 
+akurvata—did they do; 
+sañjaya—Sanjay
