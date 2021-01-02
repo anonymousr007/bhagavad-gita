@@ -16,14 +16,14 @@
 >
 > मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||
 
-dhṛitarāśhtraḥ uvācha—Dhritarashtra said;
-dharma-kṣhetre—the land of dharma; 
-kuru-kṣhetre—at Kurukshetra; 
-samavetāḥ—having gathered; 
-yuyutsavaḥ—desiring to fight; 
-māmakāḥ—my sons; 
-pāṇḍavāḥ—the sons of Pandu; 
-cha—and; eva—certainly; 
-kim—what; 
-akurvata—did they do; 
-sañjaya—Sanjay
+* dhṛitarāśhtraḥ uvācha—Dhritarashtra said;
+* dharma-kṣhetre—the land of dharma; 
+* kuru-kṣhetre—at Kurukshetra; 
+* samavetāḥ—having gathered; 
+* yuyutsavaḥ—desiring to fight; 
+* māmakāḥ—my sons; 
+* pāṇḍavāḥ—the sons of Pandu; 
+* cha—and; eva—certainly; 
+* kim—what; 
+* akurvata—did they do; 
+* sañjaya—Sanjay
