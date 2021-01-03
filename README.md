@@ -26,7 +26,7 @@
 * cha—and; eva—certainly; 
 * kim—what; 
 * akurvata—did they do; 
-* sañjaya—Sanjay
+* sañjaya—Sanjay;
 
 > BG 1.1: Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?
 
@@ -37,3 +37,26 @@
 > The words dharma kṣhetre, the land of dharma (virtuous conduct) used by Dhritarashtra depict the dilemma he was experiencing.  Kurukshetra is described as kurukṣhetraṁ deva yajanam in the Shatapath Brahman, the Vedic textbook detailing rituals. It means “Kurukshetra is the sacrificial arena of the celestial gods.” Hence, it was regarded as the sacred land that nourished dharma. 
 > 
 > Dhritarashtra feared that the holy land might influence the minds of his sons. If it aroused the faculty of discrimination, they might turn away from killing their cousins and negotiate a truce. A peaceful settlement meant that the Pandavas would continue being a hindrance for them. He felt great displeasure at these possibilities, instead preferred that this war transpires. He was uncertain of the consequences of the war, yet desired to determine the fate of his sons. Therefore, he asked Sanjay about the activities of the two armies on the battleground.
+
+### Chapter 1 : Verse 2
+
+> सञ्जय उवाच ।
+>
+> दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।
+>
+> आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ।। 2।।
+
+* sanjayaḥ uvācha—Sanjay said;
+* dṛiṣhṭvā—on observing;
+* tu—but;
+* pāṇḍava-anīkam—the Pandava army;
+* vyūḍham—standing in a military formation;
+* duryodhanaḥ—King Duryodhan;
+* tadā—then;
+* āchāryam—teacher;
+* upasaṅgamya—approached;
+* rājā—the king;
+* vachanam—words;
+* abravīt—spoke;
+
+> BG 1.2: Sanjay said: On observing the Pandava army standing in military formation, King Duryodhan approached his teacher Dronacharya, and said the following words.
