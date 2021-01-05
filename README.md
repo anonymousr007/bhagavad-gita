@@ -94,3 +94,14 @@
 > Many years back, Dronacharya along with the Pandavas had defeated King Drupad in a battle and took away half his kingdom. To avenge his defeat, Drupad performed a sacrifice to beget a son. Dhristadyumna was born out of that sacrificial fire, with a boon that he would kill Dronacharya in the future. Even though Dronacharya was aware, when he was approached for Dhristadyumna’s military training, he very humbly accepted and imparted all his knowledge impartially to his pupil.
 > 
 > Duryodhana was reminding Dronacharya that even though Dhristadyumna was his pupil, he was also Drupad’s son, with a boon to kill him. He wanted to ensure that as in the past, Dhronacharya should not become lenient towards his pupils, now that, they were on the battlefield.
+
+### Chapter 1 : Verse 4
+
+> अत्र शूरा महेष्वासा भीमार्जुनसमा युधि
+> युयुधानो विराटश्च द्रुपदश्च महारथ: || 4||
+
+> धृष्टकेतुश्चेकितान: काशिराजश्च वीर्यवान् |
+> पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गव: || 5||
+
+> युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |
+> सौभद्रो द्रौपदेयाश्च सर्व एव महारथा: || 6||
