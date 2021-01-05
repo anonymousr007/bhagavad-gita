@@ -68,3 +68,6 @@
 > Duryodhana approached his guru Dronacharya with the pretense of offering respect, but his actual purpose was to palliate his own nervousness. His move towards his guru also reveals that the mammoth military formation of the Pandava army unnerved him and he was now fearful of the outcome of this war.
 > 
 > The next nine verses are spoken by Duryodhan.
+
+### Chapter 1 : Verse 3
+
