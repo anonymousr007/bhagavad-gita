@@ -75,3 +75,14 @@
 > 
 > व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ।। 3।।
 
+* paśhya—behold;
+* etām—this;
+* pāṇḍu-putrāṇām—of the sons of Pandu;
+* āchārya—respected teacher;
+* mahatīm—mighty;
+* chamūm—army;
+* vyūḍhām—arrayed in a military formation;
+* drupada-putreṇa—son of Drupad,Dhrishtadyumna;
+* tava—by your;
+* śhiṣhyeṇa—disciple;
+* dhī-matā—intelligent
