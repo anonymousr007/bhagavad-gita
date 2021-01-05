@@ -85,7 +85,7 @@
 * drupada-putreṇa—son of Drupad,Dhrishtadyumna;
 * tava—by your;
 * śhiṣhyeṇa—disciple;
-* dhī-matā—intelligent
+* dhī-matā—intelligent;
 
 > BG 1.3: Duryodhan said: Respected teacher! Behold the mighty army of the sons of Pandu, so expertly arrayed for battle by your own gifted disciple, the son of Drupad.
 
@@ -95,7 +95,7 @@
 > 
 > Duryodhana was reminding Dronacharya that even though Dhristadyumna was his pupil, he was also Drupad’s son, with a boon to kill him. He wanted to ensure that as in the past, Dhronacharya should not become lenient towards his pupils, now that, they were on the battlefield.
 
-### Chapter 1 : Verse 4
+### Chapter 1 : Verse 4-6
 
 > अत्र शूरा महेष्वासा भीमार्जुनसमा युधि
 > 
@@ -134,4 +134,12 @@
 * yudhāmanyuḥ—Yudhamanyu; 
 * cha—and; 
 * vikrāntaḥ—courageous; 
-* uttamaujāḥ—Uttamauja; cha—and; vīrya-vān—gallant; saubhadraḥ—the son of Subhadra; draupadeyāḥ—the sons of Draupadi; cha—and; sarve—all; eva—indeed; mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors
+* uttamaujāḥ—Uttamauja; 
+* cha—and; 
+* vīrya-vān—gallant; 
+* saubhadraḥ—the son of Subhadra; 
+* draupadeyāḥ—the sons of Draupadi; 
+* cha—and; 
+* sarve—all; 
+* eva—indeed; 
+* mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors
