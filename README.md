@@ -142,7 +142,7 @@
 * cha—and; 
 * sarve—all; 
 * eva—indeed; 
-* mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors
+* mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors;
 
 > BG 1.4-6: Behold in their ranks are many powerful warriors, like Yuyudhan, Virat, and Drupad, wielding mighty bows and equal in military prowess to Bheem and Arjun. There are also accomplished heroes like Dhrishtaketu, Chekitan, the gallant King of Kashi, Purujit, Kuntibhoj, and Shaibya—all the best of men. In their ranks, they also have the courageous Yudhamanyu, the gallant Uttamauja, the son of Subhadra, and the sons of Draupadi, who are all great warrior chiefs.
 
