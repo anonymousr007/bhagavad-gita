@@ -108,3 +108,30 @@
 > युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |
 >
 > सौभद्रो द्रौपदेयाश्च सर्व एव महारथा: || 6||
+
+* atra—here; 
+* śhūrāḥ—powerful warriors; 
+* mahā-iṣhu-āsāḥ—great bowmen; 
+* bhīma-arjuna-samāḥ—equal to Bheem and Arjun; 
+* yudhi—in military prowess; 
+* yuyudhānaḥ—Yuyudhan; 
+* virāṭaḥ—Virat; 
+* cha—and; 
+* drupadaḥ—Drupad; 
+* cha—also; 
+* mahā-rathaḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors; 
+* dhṛiṣhṭaketuḥ—Dhrishtaketu; 
+* chekitānaḥ—Chekitan; 
+* kāśhirājaḥ—Kashiraj; 
+* cha—and; 
+* vīrya-vān—heroic; 
+* purujit—Purujit; 
+* kuntibhojaḥ—Kuntibhoj; 
+* cha—and; 
+* śhaibyaḥ—Shaibya; 
+* cha—and; 
+* nara-puṅgavaḥ—best of men; 
+* yudhāmanyuḥ—Yudhamanyu; 
+* cha—and; 
+* vikrāntaḥ—courageous; 
+* uttamaujāḥ—Uttamauja; cha—and; vīrya-vān—gallant; saubhadraḥ—the son of Subhadra; draupadeyāḥ—the sons of Draupadi; cha—and; sarve—all; eva—indeed; mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors
