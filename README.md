@@ -169,4 +169,6 @@
 * bravīmi—I recount; 
 * te—unto you;
 
+> BG 1.7: O best of Brahmins, hear too about the principal generals on our side, who are especially qualified to lead. These I now recount unto you.
+
 
