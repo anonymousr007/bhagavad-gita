@@ -147,3 +147,26 @@
 > BG 1.4-6: Behold in their ranks are many powerful warriors, like Yuyudhan, Virat, and Drupad, wielding mighty bows and equal in military prowess to Bheem and Arjun. There are also accomplished heroes like Dhrishtaketu, Chekitan, the gallant King of Kashi, Purujit, Kuntibhoj, and Shaibya—all the best of men. In their ranks, they also have the courageous Yudhamanyu, the gallant Uttamauja, the son of Subhadra, and the sons of Draupadi, who are all great warrior chiefs.
 
 > Due to his anxiety, the Pandava army seemed much larger to Duryodhan than it actually was. He had never expected his opponents would mobilize an army of warriors with such military prowess, who would be formidable in battle. Out of fear of the looming catastrophe, he started enumerating the names of all the mahārathīs (warriors who were singly equivalent in strength to ten thousand ordinary warriors) gathered on the Pandava side. They were all exceptional heroes, and great military commanders, equivalent in valor to his cousins Arjun and Bheem.
+
+### Chapter 1 : Verse 7
+
+> अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |
+>
+> नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते || 7||
+
+* asmākam—ours; 
+* tu—but; 
+* viśhiṣhṭāḥ—special; 
+* ye—who; 
+* tān—them; 
+* nibodha—be informed; 
+* dwija-uttama—best of Brahmins; 
+* nāyakāḥ—principal generals; 
+* mama—our; 
+* sainyasya—of army; 
+* sanjñā-artham—for information; 
+* tān—them; 
+* bravīmi—I recount; 
+* te—unto you;
+
+
