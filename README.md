@@ -174,3 +174,9 @@
 > Dronacharya was a teacher of military science and not really a warrior. However, he was on the battlefield as one of the commanders of the Kaurava army. An impudent Duryodhana even doubted the loyalty of his own preceptor. Cunning Duryodhana purposefully addressed his teacher as dwijottama (best amongst the twice-born, or Brahmins). His denigrating and vailed reminder for Dronacharya was that, if he did not display his valor in this battle, he would be considered a lowly Brahmin, who was only interested in the fine food and lavish lifestyle at the king’s palace.
 > 
 > Then to cover up his vicious words and boost his teacher’s and his own morale; Duryodhana started naming all the great generals present on the Kaurava side, describing their valor and military expertise.
+
+### Chapter 1 : Verse 8
+
+> भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जय: |
+>
+>अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च || 8||
