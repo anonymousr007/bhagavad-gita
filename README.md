@@ -197,3 +197,4 @@
 * eva—even; 
 * cha—also
 
+> BG 1.8: There are personalities like yourself, Bheeshma, Karna, Kripa, Ashwatthama, Vikarn, and Bhurishrava, who are ever victorious in battle.
