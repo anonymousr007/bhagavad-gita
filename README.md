@@ -180,3 +180,20 @@
 > भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जय: |
 >
 >अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च || 8||
+
+* bhavān—yourself; 
+* bhīṣhmaḥ—Bheeshma; 
+* cha—and; 
+* karṇaḥ—Karna; 
+* cha—and; 
+* kṛipaḥ—Kripa; 
+* cha—and; 
+* samitim-jayaḥ—victorious in battle; 
+* aśhvatthāmā—Ashvatthama; 
+* vikarṇaḥ—Vikarna; 
+* cha—and; 
+* saumadattiḥ—Bhurishrava; 
+* tathā—thus; 
+* eva—even; 
+* cha—also
+
