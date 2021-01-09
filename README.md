@@ -214,3 +214,5 @@
 * nānā-śhastra-praharaṇāḥ—equipped with various kinds of weapons; 
 * sarve—all; 
 * yuddha-viśhāradāḥ—skilled in the art of warfare;
+
+> BG 1.9: Also, there are many other heroic warriors, who are prepared to lay down their lives for my sake. They are all skilled in the art of warfare, and equipped with various kinds of weapons.
