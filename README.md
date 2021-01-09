@@ -195,6 +195,22 @@
 * saumadattiḥ—Bhurishrava; 
 * tathā—thus; 
 * eva—even; 
-* cha—also
+* cha—also;
 
 > BG 1.8: There are personalities like yourself, Bheeshma, Karna, Kripa, Ashwatthama, Vikarn, and Bhurishrava, who are ever victorious in battle.
+
+### Chapter 1 : Verse 9
+
+> अन्ये च बहव: शूरा मदर्थे त्यक्तजीविता: |
+>
+> नानाशस्त्रप्रहरणा: सर्वे युद्धविशारदा: || 9||
+
+* anye—others; 
+* cha—also; 
+* bahavaḥ—many; 
+* śhūrāḥ—heroic warriors; 
+* mat-arthe—for my sake; 
+* tyakta-jīvitāḥ—prepared to lay down their lives; 
+* nānā-śhastra-praharaṇāḥ—equipped with various kinds of weapons; 
+* sarve—all; 
+* yuddha-viśhāradāḥ—skilled in the art of warfare;
