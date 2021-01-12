@@ -246,5 +246,23 @@
 > However, both Kauravas and Pandavas were Bheeshma’s grandchildren and as the oldest living member of the Kuru family, he was concerned about their welfare. He was compassionate towards the Pandavas, but was bound by his ethical commitment towards the throne of Hastinapur and its subjects. Therefore, halfheartedly, he led the Kaurava army against them.
 > 
 > Bheeshma was also aware that in this holy war, along with all the great warriors of the world the Supreme Lord Krishna Himself was present. Lord Krishna was with the Pandavas, which meant Dharma was on their side, and no power in the entire universe could make the side of Adharma win.
+
+### Chapter 1 : Verse 11 
+
+> अयनेषु च सर्वेषु यथाभागमवस्थिता: |
+>
+> भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि || 11||
+
+* ayaneṣhu—at the strategic points; 
+* cha—also; 
+* sarveṣhu—all; 
+* yathā-bhāgam—in respective position; 
+* avasthitāḥ—situated; 
+* bhīṣhmam—to Grandsire Bheeshma; 
+* eva—only; 
+* abhirakṣhantu—defend; 
+* bhavantaḥ—you; 
+* sarve—all; 
+* eva hi—even as
 >
 > He had vowed to protect the kingdom of Hastinapur and its subjects and to fulfill his responsibility towards them Bheeshma led the Kaurava army, even though he was aware of their wrongdoings. This decision of Bheeshma accentuates his strength of character and enigmatic personality.
