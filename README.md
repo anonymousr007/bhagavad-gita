@@ -216,3 +216,27 @@
 * yuddha-viśhāradāḥ—skilled in the art of warfare;
 
 > BG 1.9: Also, there are many other heroic warriors, who are prepared to lay down their lives for my sake. They are all skilled in the art of warfare, and equipped with various kinds of weapons.
+
+### Chapter 1 : Verse 10 
+
+> अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |
+>
+> पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् || 10||
+
+* aparyāptam—unlimited; 
+* tat—that; 
+* asmākam—ours; 
+* balam—strength; 
+* bhīṣhma—by Grandsire Bheeshma; 
+* abhirakṣhitam—safely marshalled; 
+* paryāptam—limited; 
+* tu—but; 
+* idam—this; 
+* eteṣhām—their; 
+* balam—strength; 
+* bhīma—Bheem; 
+* abhirakṣhitam—carefully marshalled;
+
+
+
+
