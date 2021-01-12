@@ -264,5 +264,8 @@
 * bhavantaḥ—you; 
 * sarve—all; 
 * eva hi—even as
->
-> He had vowed to protect the kingdom of Hastinapur and its subjects and to fulfill his responsibility towards them Bheeshma led the Kaurava army, even though he was aware of their wrongdoings. This decision of Bheeshma accentuates his strength of character and enigmatic personality.
+
+> BG 1.11: Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points
+He had vowed to protect the kingdom of Hastinapur and its subjects and to fulfill his responsibility towards them Bheeshma led the Kaurava army, even though he was aware of their wrongdoings. This decision of Bheeshma accentuates his strength of character and enigmatic personality.
+
+> Duryodhana urged all the Kaurava generals to make sure they are around Grandsire Bheeshma and give him full support while they defend their own respective positions in the military phalanx. Duryodhana beheld Bheeshma’s unassailability as an advantage and wanted to use it as strength and inspiration for his army.
